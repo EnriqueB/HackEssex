@@ -1,0 +1,16 @@
+You stumble upon a dirt road going east and west. The path curves ahead. What
+will you do?
+
+Inspect, Touch, Walk N, Walk W, Walk S, Walk E
+
+dirt_road1, sky1
+
+forest1 0.3, town1 0.3, cave1 0.2, ruins1 0.2
+
+road2 0.4, road3 0.4, road4 0.2
+
+forest1 0.3, town1 0.2, cave1 0.3, ruins 0.2
+
+road2 0.4, road3 0.4, road4 0.2
+
+0

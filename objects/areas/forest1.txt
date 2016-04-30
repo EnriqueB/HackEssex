@@ -1,0 +1,10 @@
+You wander for a while, but are unable to find anything of interest. Trees
+surround you. What will you do?
+
+Inspect, Touch, Walk N, Walk W, Walk S, Walk E
+
+tree2, stone1, sky1
+
+forest2 0.3, town1 0.2, cave1 02, ruins1 0.2, road1 0.1
+
+0

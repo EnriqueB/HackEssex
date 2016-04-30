@@ -1,0 +1,16 @@
+You stumble upon ancient ruins to the east, already overtaken by the forest.
+What do you do?
+
+Inspect, Touch, Walk N, Walk W, Walk S, Walk E
+
+ruins1, sky1
+
+forest1 0.3, town1 0.2, cave1 0.2, road1 0.2
+
+forest1 0.3, town1 0.2, cave1 0.2, road1 0.2
+
+forest1 0.3, town1 0.2, cave1 0.2, road1 0.2
+
+ruins2 0.5, ruins3 0.2, ruins4 0.2, ruins5 0.1
+
+0

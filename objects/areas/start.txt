@@ -1,0 +1,16 @@
+You wake up in the middle of the forest. You cannot remember how you got here.
+Trees surround you. What will you do?
+
+Inspect, Touch, Walk N, Walk W, Walk S, Walk E
+
+tree1, stone1, sky1
+
+forest1 0.3, town1 0.2, cave1 0.2, ruins1 0.2, road1 0.1
+
+forest1 0.3, town1 0.2, cave1 0.2, ruins1 0.2, road1 0.1
+
+forest1 0.3, town1 0.2, cave1 0.2, ruins1 0.2, road1 0.1
+
+forest1 0.3, town1 0.2, cave1 0.2, ruins1 0.2, road1 0.1
+
+0

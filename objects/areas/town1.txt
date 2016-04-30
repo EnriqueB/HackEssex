@@ -1,0 +1,17 @@
+After wandering for a while, you stumble upon what appears to be an abandoned
+village. There are no signs of someone living here for a while. What will you
+do?
+
+Inspect, Touch, Walk N, Walk W, Walk S, Walk E
+
+house1, sky1
+
+town2 0.5, town3 0.2, town4 0.2, town5 0.1 
+
+town2 0.5, town3 0.2, town4 0.2, town5 0.1 
+
+town2 0.5, town3 0.2, town4 0.2, town5 0.1 
+
+town2 0.5, town3 0.2, town4 0.2, town5 0.1 
+
+0

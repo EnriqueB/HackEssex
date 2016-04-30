@@ -1,0 +1,16 @@
+After wandering for a while, you come upon a cave entrance to the north. You
+cannot make up much past a few meters of the entrance. More stuff
+
+Inspect, Walk N, Walk W, Walk S, Walk E
+
+cave_entrance1, sky1
+
+cave2 0.5, cave3 0.3, cave4 0.1, cave5 0.1
+
+forest1 0.3, town1 0.2, ruins1 0.2, road1 0.3
+
+forest1 0.3, town1 0.2, ruins1 0.2, road1 0.3
+
+forest1 0.3, town1 0.2, ruins1 0.2, road1 0.3
+
+0
